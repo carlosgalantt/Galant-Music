@@ -4,7 +4,6 @@
 
 ### Galant Music é uma plataforma fictícia de música, contém os planos premium para quem quiser assiná-la e sua descrição.
 <br>
-<br>
 
 ## 🎨 Layout web
 
@@ -13,7 +12,7 @@
 ![music3](https://user-images.githubusercontent.com/123756073/220762989-312dc5a4-2959-4cea-bde7-300248293669.png)
 ![music4](https://user-images.githubusercontent.com/123756073/220763027-eb0cd936-8258-4d0e-aa76-0b1dc8be6bec.png)
 
-## 🛠 Tecnologias
+## 🚀 Tecnologias
 ### feito exclusivamente por meio do Visual Studio Code
 
 ## 🦸 Autor
